@@ -1,0 +1,17 @@
+{
+    "name": "ygohel18/todo",
+    "type": "project",
+    "description": "Auto generated backend code for TODO app.",
+    "keywords": [
+        "todo"
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
